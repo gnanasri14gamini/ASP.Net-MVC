@@ -1,2 +1,6 @@
 # MVC
-Implementing individual concepts in detail understanding of MVC
+Implementing individual concepts for detail understanding of MVC
+--Middleware
+--Routing
+--Controller and ActionMethods
+--ModelBinding and Model Validations
