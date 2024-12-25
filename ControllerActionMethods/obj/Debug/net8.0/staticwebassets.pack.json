@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\GnanaSpringSchedule.pdf",
+      "PackagePath": "staticwebassets\\GnanaSpringSchedule.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControllerActionMethods.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControllerActionMethods.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ControllerActionMethods.props",
+      "PackagePath": "build\\ControllerActionMethods.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllerActionMethods.props",
+      "PackagePath": "buildMultiTargeting\\ControllerActionMethods.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ControllerActionMethods.props",
+      "PackagePath": "buildTransitive\\ControllerActionMethods.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

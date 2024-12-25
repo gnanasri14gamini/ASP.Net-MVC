@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "AdxT7bS5/4fXlRJEt9oMFh6HV3Tc+nCt2JnjbHM06m4=",
+  "Source": "ControllerActionMethods",
+  "BasePath": "_content/ControllerActionMethods",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerActionMethods\\wwwroot",
+      "Source": "ControllerActionMethods",
+      "ContentRoot": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\",
+      "BasePath": "_content/ControllerActionMethods",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\GnanaSpringSchedule.pdf",
+      "SourceId": "ControllerActionMethods",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\",
+      "BasePath": "_content/ControllerActionMethods",
+      "RelativePath": "GnanaSpringSchedule#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hp5d7kflyw",
+      "Integrity": "2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\GnanaSpringSchedule.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "GnanaSpringSchedule.hp5d7kflyw.pdf",
+      "AssetFile": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\GnanaSpringSchedule.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 19:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp5d7kflyw"
+        },
+        {
+          "Name": "label",
+          "Value": "GnanaSpringSchedule.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4="
+        }
+      ]
+    },
+    {
+      "Route": "GnanaSpringSchedule.pdf",
+      "AssetFile": "C:\\Users\\gnana\\source\\repos\\ControllerActionMethods\\wwwroot\\GnanaSpringSchedule.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 19:12:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4="
+        }
+      ]
+    }
+  ]
+}

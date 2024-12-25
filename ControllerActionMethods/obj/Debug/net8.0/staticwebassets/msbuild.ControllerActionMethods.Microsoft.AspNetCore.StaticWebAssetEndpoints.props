@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ControllerActionMethods/GnanaSpringSchedule.hp5d7kflyw.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GnanaSpringSchedule.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hp5d7kflyw"},{"Name":"integrity","Value":"sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD\u002BZkxuGUqiU4="},{"Name":"label","Value":"_content/ControllerActionMethods/GnanaSpringSchedule.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95842"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00222zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD\u002BZkxuGUqiU4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 19:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ControllerActionMethods/GnanaSpringSchedule.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\GnanaSpringSchedule.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD\u002BZkxuGUqiU4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"95842"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00222zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD\u002BZkxuGUqiU4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 19:12:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

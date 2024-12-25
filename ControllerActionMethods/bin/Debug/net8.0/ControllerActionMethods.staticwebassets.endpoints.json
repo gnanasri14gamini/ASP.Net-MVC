@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "GnanaSpringSchedule.hp5d7kflyw.pdf",
+      "AssetFile": "GnanaSpringSchedule.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 19:12:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp5d7kflyw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4="
+        },
+        {
+          "Name": "label",
+          "Value": "GnanaSpringSchedule.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "GnanaSpringSchedule.pdf",
+      "AssetFile": "GnanaSpringSchedule.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 19:12:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2zr/JUKE0JqUmWCCfomoFLTxFTgn/HUD+ZkxuGUqiU4="
+        }
+      ]
+    }
+  ]
+}
