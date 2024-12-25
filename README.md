@@ -1,6 +1,6 @@
 # MVC
 Implementing individual concepts for detail understanding of MVC
---Middleware
---Routing
---Controller and ActionMethods
---ModelBinding and Model Validations
+1. Middleware 
+2. Routing 
+3. Controller and ActionMethods
+4. ModelBinding and Model Validations
